@@ -1,0 +1,6 @@
+Easy:maria:30
+Hard:adam:50
+Extreme:matej:120
+Medium:anna:62
+Hard:lukas:48
+Medium:lol:70
